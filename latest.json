@@ -2,7 +2,7 @@
   "versionCode": 4,
   "versionName": "1.0.3",
   "minSupportedVersionCode": 4,
-  "forceUpdate": true,
+  "forceUpdate": false,
   "apkUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/download/v1.0.3/app-release.apk",
   "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.0.3",
   "notes": [
