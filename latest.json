@@ -5,9 +5,10 @@
   "forceUpdate": false,
   "apkUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/download/v1.0.2/app-release.apk",
   "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.0.2",
-  "fileSizeBytes": 28573641,
-  "sha256": "optional-file-hash",
   "notes": [
+    "Academic calendar now loads from live Maitri API data.",
+    "Settings persist across app restarts.",
+    "General fixes and improvements."
   ],
-  "publishedAt": "2026-04-07"
+  "publishedAt": "2026-04-07T18:30:00Z"
 }
