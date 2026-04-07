@@ -4,7 +4,7 @@ Download the latest APK from **Releases**.
 
 ## 📦 Install
 1. Open the **Releases** tab (SCROLL DOWN ON PHONE)
-2. Download the newest `Maitri+ RELEASE.apk`
+2. Download the newest `app-release.apk`
 3. Install it on your Android phone  
    (Enable **Install unknown apps** if prompted)
 
