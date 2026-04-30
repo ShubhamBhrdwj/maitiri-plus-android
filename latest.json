@@ -2,10 +2,13 @@
   "versionCode": 5,
   "versionName": "1.1.0",
   "minSupportedVersionCode": 0,
-  "forceUpdate": true,
+  "forceUpdate": fase,
   "apkUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/download/v1.1.0/app-release.apk",
   "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.1.0",
   "notes": [
+    "Implemented OD attendance marking",
+    "New features in Deatiled Attendance info",
+    "Re defined Scholarship mode"
   ],
   "publishedAt": "2026-04-30"
 }
