@@ -6,9 +6,10 @@
   "apkUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/download/v1.1.0/app-release.apk",
   "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.1.0",
   "notes": [
-    "Implemented OD attendance marking",
-    "New features in Deatiled Attendance info",
-    "Re defined Scholarship mode"
+    "Implemented OD attendance marking.",
+    "New features in detailed attendance info.",
+    "Re-defined Scholarship mode",
+    "Ability to calculate future attend & skip classes together"
   ],
   "publishedAt": "2026-04-30"
 }
