@@ -2,14 +2,10 @@
   "versionCode": 5,
   "versionName": "1.1.0",
   "minSupportedVersionCode": 0,
-  "forceUpdate": false,
+  "forceUpdate": true,
   "apkUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/download/v1.1.0/app-release.apk",
   "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.1.0",
   "notes": [
-    "Fixed Scholarship Mode",
-    "Added Percentage after capped for considering OD attendance",
-    "New After Skip/Attend Counter",
-    "Minor UI Fixes"
   ],
   "publishedAt": "2026-04-30"
 }
