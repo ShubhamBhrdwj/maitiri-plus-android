@@ -1,15 +1,13 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.0",
-  "minSupportedVersionCode": 0,
-  "forceUpdate": false,
+  "versionCode": 6,
+  "versionName": "1.2.0",
+  "minSupportedVersionCode": 5,
+  "forceUpdate": true,
   "apkUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
-  "releaseUrl": "",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
+  "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.2.0",
   "notes": [
-    "Implemented OD attendance marking.",
-    "New features in detailed attendance info.",
-    "Re-defined Scholarship mode",
-    "Ability to calculate future attend & skip classes together"
+    "MANDATORY UI UPDATE"
   ],
-  "publishedAt": "2026-04-30"
+  "publishedAt": "2026-07-06T18:30:00Z"
 }
