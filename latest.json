@@ -1,13 +1,14 @@
 {
-  "versionCode": 7,
-  "versionName": "UNDER MAINTENANCE",
-  "minSupportedVersionCode": 7,
+  "versionCode": 11,
+  "versionName": "1.4.0",
+  "minSupportedVersionCode": 11,
   "forceUpdate": true,
-  "apkUrl": "",
-  "downloadUrl": "",
-  "releaseUrl": "",
+  "apkUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
+  "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.4.0",
   "notes": [
-    "APPLICATION UNDER MAINTENANCE"
+    "FIXED LOGIN ISSUE",
+    "ADDITIONAL INFO: MAITRI PLUS WILL BE SWITCHING TO DIGICAMPUS AS SOON AS POSSIBLE AS WELL"
   ],
-  "publishedAt": "2026-09-14"
+  "publishedAt": "2026-07-06T18:30:00Z"
 }
