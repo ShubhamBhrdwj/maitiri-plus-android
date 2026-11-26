@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
+  "versionCode": 21,
   "versionName": "2.0.0",
-  "minSupportedVersionCode": 20,
+  "minSupportedVersionCode": 21,
   "forceUpdate": true,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.maitri.mobile",
   "notes": [
