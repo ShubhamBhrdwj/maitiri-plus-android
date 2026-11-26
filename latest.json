@@ -1,14 +1,11 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.0",
-  "minSupportedVersionCode": 11,
+  "versionCode": 20,
+  "versionName": "2.0.0",
+  "minSupportedVersionCode": 20,
   "forceUpdate": true,
-  "apkUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
-  "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.4.0",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.maitri.mobile",
   "notes": [
-    "FIXED LOGIN ISSUE",
-    "ADDITIONAL INFO: MAITRI PLUS WILL BE SWITCHING TO DIGICAMPUS AS SOON AS POSSIBLE AS WELL"
+    "Welcome to Digii+!"
   ],
-  "publishedAt": "2026-07-06T18:30:00Z"
+  "publishedAt": "2026-12-15T10:00:00Z"
 }
