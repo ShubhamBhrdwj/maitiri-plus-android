@@ -1,13 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.0",
-  "minSupportedVersionCode": 5,
+  "versionCode": 21,
+  "versionName": "2.0.0",
+  "minSupportedVersionCode": 21,
   "forceUpdate": true,
-  "apkUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/1jsi12uzyl7i99ofyxtw0/app-release.apk?rlkey=r71ehcxeqxri7ni1sv02c3coy&st=szxarmm9&dl=1",
-  "releaseUrl": "https://github.com/ShubhamBhrdwj/maitiri-plus-android/releases/tag/v1.2.0",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.maitri.mobile",
   "notes": [
-    "MANDATORY UI UPDATE"
+    "Welcome to Digii+!"
   ],
-  "publishedAt": "2026-07-06T18:30:00Z"
+  "publishedAt": "2026-12-15T10:00:00Z"
 }
